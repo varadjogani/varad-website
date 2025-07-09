@@ -3,7 +3,7 @@
   --text: #2c2c2c;
   --accent: #2c3e50;
   --shadow: rgba(0, 0, 0, 0.1);
-  --blur: 100px;
+  --blur: 10px;
 
   --font-main: 'Inter', sans-serif;
   --max-width: 820px;
